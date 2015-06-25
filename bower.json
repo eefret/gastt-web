@@ -1,0 +1,26 @@
+{
+  "name": "gastt-web",
+  "version": "0.0.1",
+  "authors": [
+    "Christopher T. Herrera <eefretsoul@gmail.com>"
+  ],
+  "description": "An Android Translation Tool Web",
+  "main": "static/js/app.js",
+  "keywords": [
+    "go",
+    "android",
+    "string",
+    "translation",
+    "tool"
+  ],
+  "license": "MIT",
+  "homepage": "eefret.me",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/js/vendor",
+    "test",
+    "tests"
+  ]
+}

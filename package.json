@@ -1,0 +1,32 @@
+{
+  "name": "gastt-web",
+  "version": "0.0.1",
+  "description": "An Android Translation Tool Web",
+  "main": "main.go",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bower": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "go test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/eefret/gastt-web"
+  },
+  "keywords": [
+    "go",
+    "android",
+    "string",
+    "translation",
+    "tool"
+  ],
+  "author": "Christopher T. Herrera <eefretsoul@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eefret/gastt-web/issues"
+  }
+}
